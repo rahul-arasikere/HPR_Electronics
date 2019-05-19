@@ -1,4 +1,4 @@
-# One In A Melon Electronics#
+# One In A Melon Electronics
 
 This repository contains the code for the payload with sensors as well as the code for the reciever on the ground.
 
